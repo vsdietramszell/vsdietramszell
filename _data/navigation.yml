@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "der Verein"
+    url: /verein/
+  - title: "Geschichte"
+    url: /geschichte/
+  - title: "Über uns"
     url: /about/
+  - title: "Kontakt"
+    url: /kontakt/
