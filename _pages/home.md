@@ -2,12 +2,6 @@
 permalink: /
 title: Home
 ---
-Wir sind ein Verein mit den folgenden Schwerpunkten:
-Öffentlichkeitsarbeit zur Umweltbildung und zu umweltfreundlichem
-Verhalten
-Praktischen Umweltschutz wie Baumpflanzungen, Renaturierung von
-Lebensräumen und Artenschutz
-Umweltbildungsangebote wie Exkursionen und Vorträge
-Beratungen zu umweltrelevanten Themen und Unterstützung
-umweltbewusster Initiativen
-Zusammenarbeit mit anderen Umwelt- und Naturschutzverbänden
+Willkommen bei 'Vereinte Sache für unsere Natur' – wo wir gemeinsam für einen grüneren Planeten einstehen! 
+
+Entdecken Sie, wie wir die Natur schützen und wie auch Sie ein Teil dieser Bewegung werden können.
