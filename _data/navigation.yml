@@ -1,9 +1,9 @@
 main:
   - title: "der Verein"
     url: /verein/
-  - title: "Geschichte"
-    url: /geschichte/
-  - title: "Über uns"
-    url: /about/
-  - title: "Kontakt"
-    url: /kontakt/
+  - title: "Mitgliedschaft"
+    url: /mitgliedschaft/
+  - title: "Impressum"
+    url: /impressum/
+  - title: "Datenschutz"
+    url: /datenschutz/
