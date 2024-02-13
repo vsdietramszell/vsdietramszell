@@ -80,4 +80,4 @@ defaults:
       share: false
       related: false
       header:
-        image: "/assets/images/header.png"      
+        image: "/assets/images/background.jpg"      
