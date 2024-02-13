@@ -54,8 +54,9 @@ author:
 
 footer:
   links: []
-  atom_feed:
-    hide: true
+
+atom_feed:
+  hide: true
   
 defaults:
   # _posts
