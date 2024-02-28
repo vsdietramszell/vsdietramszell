@@ -10,7 +10,8 @@ Datenschutzerklärung
 Benennung der verantwortlichen Stelle
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
-t.b.d.
+Vereinte Sache für unsere Natur e.V.
+info@vsdietramszell.de
 
 Wie werden Ihre Daten erfasst?
 
